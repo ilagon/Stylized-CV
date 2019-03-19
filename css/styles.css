@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Hind Guntur', sans-serif;
+    background-color: #65c6c4;
+    
+}
+
+h1{
+    margin: 110px 0 auto auto;
+    font-family: 'Lora', serif;
+    font-size: 350%;
+    
+}
+
+h2{
+    font-size: 2.5rem;
+    
+}
+
+a{
+    color: #34699a;
+}
+
+
+hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #010101;
+    
+}
+
+footer{
+    background-color: gray;
+}
+
+.top{
+    /*background-color: #408ab4;*/
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 700px;
+    bottom: 350px
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 450px;
+    left: 700px
+}
+
+.dev{
+    text-decoration: underline;
+}
+
+.developer{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: normal;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.WebImage{
+    float: left;
+    margin-right: 30px;
+}
+
+.MobileImage{
+    float: right;
+    
+}
+
+.GameImage{
+    float: left;
+    margin-right: 30px;
+}
+
+
