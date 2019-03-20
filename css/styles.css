@@ -36,6 +36,12 @@ hr{
 
 footer{
     background-color: gray;
+    margin: 20px auto 20px auto;
+    font-family: 'Hind Guntur', sans-serif;
+}
+
+.footer-link{
+    margin: 20px 10px;
 }
 
 .top{
