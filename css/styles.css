@@ -134,3 +134,14 @@ footer{
     float: left;
     margin-right: 30px;
 }
+
+.SharpImg{
+    float: right;
+    height: 130px;
+}
+
+.DanceImg{
+    float: left;
+    height: 180px;
+    margin-right: 30px;
+}
